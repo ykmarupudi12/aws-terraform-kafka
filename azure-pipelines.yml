@@ -10,8 +10,8 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
+- script: echo Hello, world this is a sample devops project and this is awesome!
+  displayName: 'Run a one-line script  Learning Azure Devops'
 
 - script: |
     echo Add other tasks to build, test, and deploy your project.
